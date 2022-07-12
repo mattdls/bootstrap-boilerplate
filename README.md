@@ -1,1 +1,8 @@
 # bootstrap-boilerplate
+Description
+Prerequisites
+Installation
+Contributing
+License
+Citation
+Contact
